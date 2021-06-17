@@ -1,5 +1,5 @@
-name: LOFFER
-description: 一个可以fork的博客
+name: Chin Seong's Blog
+description: 随想随笔杂七杂八
 url: mohistplus.github.io
 baseurl: 
 
@@ -12,7 +12,7 @@ baseurl:
 avatar: https://pic1.zhimg.com/v2-5de01f2fc043919b0b2800ffd2847f88_xl.jpg
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
+favicon: https://pic1.zhimg.com/v2-5de01f2fc043919b0b2800ffd2847f88_xl.jpg
 
 
 # 菜单中的按钮
@@ -40,7 +40,7 @@ footer-links:
   email: #youremailaddress@mail.com
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
-  github: FromEndWorld/loffer #https://github.com/<>
+  github:  #https://github.com/<>
   instagram: #https://instagram.com/<>
   linkedin: #https://www.linkedin.com/in/<>
   pinterest: #https://www.pinterest.com/<>
@@ -51,7 +51,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # 站点页脚的文字
-footer-text: Copyright (c) 2019 来自中世界
+footer-text: Copyright (c) 2021 Chin Seong
 
 #
 # 评论，注意，请不要同时添加多种不同的评论区
